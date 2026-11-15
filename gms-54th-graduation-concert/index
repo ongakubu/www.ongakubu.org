@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+  
+<head>
+	<title>第54回卒業演奏会 | Gakushuin Music Society</title>
+	<meta name="description" content="第54回卒業演奏会 Gakushuin Music Society, since 1922. All rights reserved.">
+	<link rel="icon" href="/image/favicon.ico">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="/css/style.css">
+</head>
+  
+<body>
+	<nav class="global-navbar">
+		<div class="global-navbar-logo"><a href="/">学習院輔仁会音楽部</a></div>
+		<ul class="global-navlinks">
+			<input type="checkbox" id="checkbox_toggle" />
+			<label for="checkbox_toggle" class="global-navbar-hamburger">&#9776;</label>
+			<div class="global-navbar-menu">
+				<li><a href="/#Concert">Concert</a></li>
+				<li><a href="/#News">News</a></li>
+				<li><a href="/support/">Support</a></li>
+				<li><a href="/contact/">Contact</a></li>
+			</div>
+		</ul>
+	</nav>
+  
+	<div class="paper">
+		<h2 class="linetitle">第54回卒業演奏会</h2>
+    <table>
+      <tr><th class="left">日付</th><td class="left">2027年3月7日（日）</td></tr>
+      <tr><th class="left">時間</th><td class="left">13:00開場、14:00開演</td></tr>
+      <tr><th class="left">会場</th>
+        <td class="left">
+          <details class="concertlocation">
+            <summary>学習院創立百周年記念会館　正堂</summary>
+            <iflame
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.2480988974467!2d139.70689911559793!3d35.72011643544518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188d40561d1e8d%3A0x8c7449002b7e5c13!2z5a2m57-S6Zmi5Ym156uL55m-5ZGo5bm06KiY5b-15Lya6aSo!5e0!3m2!1sja!2sjp!4v1662081729713!5m2!1sja!2sjp"
+              width="100%"
+              height="450"
+              style="border:0;"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iflame>
+          </details>
+        </td>
+      </tr>
+      
+      <tr><th class="left">指揮</th><td class="left">学生指揮者</td></tr>
+	    <tr><th class="left">チケット</th><td class="left">無料、全席指定、当日券あり<br>詳細は後日公開</td></tr>
+      <tr><th class="left">お問い合わせ</th><td class="left"><a href="/contact/">お問い合わせフォーム</a>より</td></tr>
+	</div>
+  
+	<div class="paper">
+		<h2 class="linetitle">曲目</h2>
+    <h3 class="linetitle">男声合唱団</h3>
+    <p class="bodytext">（ここに曲名）<br>作詩：（ここに作詩者）／作曲：（ここに作曲者）<br>指揮：（ここに指揮者）／ピアノ：（ここにピアノ）</p>
+    <h3 class="linetitle">女声合唱団</h3>
+    <p class="bodytext">（ここに曲名）<br>作詩／作曲：（ここに名前）<br>編曲：（ここに編曲者）<br>指揮：（ここに指揮者）／伴奏：（ここに伴奏者）</p>
+    <h3 class="linetitle">混声合唱団</h3>
+    <p class="bodytext">（ここに曲名）<br>作詩：（ここに作詩者）／作曲：（ここに作曲者）<br>指揮：（ここに指揮者）／伴奏：（ここに伴奏者）</p>
+    <h3 class="linetitle">管弦楽団</h3>
+    <p class="bodytext">ロッシーニ／歌劇『ウィリアム・テル』より『スイス軍の行進』<br>指揮：金森裕大</p>
+    <p class="bodytext">ラフマニノフ／交響曲第2番より第3・4楽章<br>指揮：後藤洋介</p>
+    <p class="bodytext">メンデルスゾーン／ヴァイオリン協奏曲より第1楽章<br>ヴァイオリン独奏：鷺谷朋子<br>指揮：後藤洋介</p>
+    <p class="bodytext">ハイドン／チェロ協奏曲第2番より第1楽章<br>チェロ独奏：中山孝輔<br>指揮：小林壮一</p>
+    <h3 class="linetitle">合同演奏</h3>
+    <p class="bodytext">プッチーニ／『グローリア・ミサ』よりグローリア<br>指揮：後藤洋介<br>テノール：本田温大
+
+	</div>
+  
+	<div class="paper">
+		<h2 class="linetitle" id="News">News</h2>
+		<h3 class="linetitle">公式Webサイトの緊急メンテナンス</h3>
+		<p class="bodytext">脆弱性対応のため2026年10月22日（木）より緊急メンテナンスを実施し、2026年11月1日（日）に機能を限定して復旧いたしました。そのため一部のページが一時的にご覧になれないことがございます。ご不便をおかけし、誠に申し訳ございません。</p>
+		<p class="bodytext">その他の機能についても段階的に復旧対応を進めてまいります。</p>
+	</div>
+  
+	<div class="paper">
+		<h2 class="linetitle">Support</h2>
+		<h3 class="linetitle">ご支援のお願い</h3>
+		<p class="bodytext">学校法人学習院の「課外活動助成金（クラブ指定あり）」によりご寄付いただけます。ぜひご助力賜りますよう、よろしくお願い申し上げます。</p>
+		<p class="bodytext"><a href="/support/">詳細をみる</a></p>
+	</div>
+  
+	<div class="paper">
+		<h2 class="linetitle">Contact</h2>
+		<p class="bodytext"><a href="/contact/">お問い合わせフォームより</a></p>
+	</div>
+  
+	<footer class="copyright">Copyright&nbsp;&copy;&nbsp;<span id="year"></span>&nbsp;Gakushuin&nbsp;Music&nbsp;Society</footer>
+	<script type="text/javascript" src="/js/script.js"></script>
+</body>
+</html>
