@@ -51,42 +51,26 @@
 	    <tr><th class="left">チケット</th><td class="left">無料、全席指定、当日券あり<br>詳細は後日公開</td></tr>
       <tr><th class="left">お問い合わせ</th><td class="left"><a href="/contact/">お問い合わせフォーム</a>より</td></tr>
 	</div>
-  
-	<div class="paper">
-		<h2 class="linetitle">曲目</h2>
-    <h3 class="linetitle">男声合唱団</h3>
-    <p class="bodytext">（ここに曲名）<br>作詩：（ここに作詩者）／作曲：（ここに作曲者）<br>指揮：（ここに指揮者）／ピアノ：（ここにピアノ）</p>
-    <h3 class="linetitle">女声合唱団</h3>
-    <p class="bodytext">（ここに曲名）<br>作詩／作曲：（ここに名前）<br>編曲：（ここに編曲者）<br>指揮：（ここに指揮者）／伴奏：（ここに伴奏者）</p>
-    <h3 class="linetitle">混声合唱団</h3>
-    <p class="bodytext">（ここに曲名）<br>作詩：（ここに作詩者）／作曲：（ここに作曲者）<br>指揮：（ここに指揮者）／伴奏：（ここに伴奏者）</p>
-    <h3 class="linetitle">管弦楽団</h3>
-    <p class="bodytext">ロッシーニ／歌劇『ウィリアム・テル』より『スイス軍の行進』<br>指揮：金森裕大</p>
-    <p class="bodytext">ラフマニノフ／交響曲第2番より第3・4楽章<br>指揮：後藤洋介</p>
-    <p class="bodytext">メンデルスゾーン／ヴァイオリン協奏曲より第1楽章<br>ヴァイオリン独奏：鷺谷朋子<br>指揮：後藤洋介</p>
-    <p class="bodytext">ハイドン／チェロ協奏曲第2番より第1楽章<br>チェロ独奏：中山孝輔<br>指揮：小林壮一</p>
-    <h3 class="linetitle">合同演奏</h3>
-    <p class="bodytext">プッチーニ／『グローリア・ミサ』よりグローリア<br>指揮：後藤洋介<br>テノール：本田温大
 
-	</div>
-  
 	<div class="paper">
-		<h2 class="linetitle" id="News">News</h2>
-		<h3 class="linetitle">公式Webサイトの緊急メンテナンス</h3>
-		<p class="bodytext">脆弱性対応のため2026年10月22日（木）より緊急メンテナンスを実施し、2026年11月1日（日）に機能を限定して復旧いたしました。そのため一部のページが一時的にご覧になれないことがございます。ご不便をおかけし、誠に申し訳ございません。</p>
-		<p class="bodytext">その他の機能についても段階的に復旧対応を進めてまいります。</p>
-	</div>
-  
-	<div class="paper">
-		<h2 class="linetitle">Support</h2>
-		<h3 class="linetitle">ご支援のお願い</h3>
-		<p class="bodytext">学校法人学習院の「課外活動助成金（クラブ指定あり）」によりご寄付いただけます。ぜひご助力賜りますよう、よろしくお願い申し上げます。</p>
-		<p class="bodytext"><a href="/support/">詳細をみる</a></p>
-	</div>
-  
-	<div class="paper">
-		<h2 class="linetitle">Contact</h2>
-		<p class="bodytext"><a href="/contact/">お問い合わせフォームより</a></p>
+	<h2 class="linetitle">曲目</h2>
+    <h3 class="linetitle">男声合唱団</h3>
+        <p class="bodytext">男声合唱とピアノのための組曲『静かな雨の夜に』より「静かな雨の夜に」<br>作詞：谷川俊太郎／作曲：松下耕<br>指揮：後藤雅和／伴奏：出田晶子</p>
+        <p class="bodytext">「乾杯」<br>作詞／作曲：長渕剛／編曲：源田俊一郎<br>指揮：後藤雅和／伴奏：出田晶子</p>
+    <h3 class="linetitle">女声合唱団</h3>
+        <p class="bodytext">「ここから始まる」<br>作詞：みなづきみのり／作曲：北川昇<br>指揮：山本彩花／伴奏：橋田真緒</p>
+        <p class="bodytext">「言葉は」<br>作詞：谷川俊太郎／作曲：信長貴富<br>指揮：山本彩花／伴奏：近藤菜恵</p>
+    <h3 class="linetitle">混声合唱団</h3>
+        <p class="bodytext">混声合唱とピアノのための組曲『憧れと共に』より「歌に憧れて」<br>作詞／作曲：佐藤賢太郎<br>指揮：斎藤花／伴奏：出田晶子</p>
+        <p class="bodytext">「明日の空」<br>作詞：みなづきみのり／作曲：名田綾子<br>指揮：斎藤花／伴奏：出田晶子</p>
+    <h3 class="linetitle">管弦楽団</h3>
+        <p class="bodytext">ロッシーニ／歌劇『ウィリアム・テル』より『スイス軍の行進』<br>指揮：金森裕大</p>
+        <p class="bodytext">ラフマニノフ／交響曲第2番より第3・4楽章<br>指揮：後藤洋介</p>
+        <p class="bodytext">メンデルスゾーン／ヴァイオリン協奏曲より第1楽章<br>ヴァイオリン独奏：鷺谷朋子<br>指揮：後藤洋介</p>
+        <p class="bodytext">ハイドン／チェロ協奏曲第2番より第1楽章<br>チェロ独奏：中山孝輔<br>指揮：小林壮一</p>
+    <h3 class="linetitle">合同演奏</h3>
+        <p class="bodytext">プッチーニ／『グローリア・ミサ』よりグローリア<br>指揮：後藤洋介<br>テノール：本田温大
+
 	</div>
   
 	<footer class="copyright">Copyright&nbsp;&copy;&nbsp;<span id="year"></span>&nbsp;Gakushuin&nbsp;Music&nbsp;Society</footer>
